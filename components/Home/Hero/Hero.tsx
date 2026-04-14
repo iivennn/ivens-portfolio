@@ -38,7 +38,7 @@ const Hero = () => {
             <Typewriter
               options={{
                 strings: [
-                  " Computer Engineering Student",
+                  " Computer Engineer",
                   " Frontend Developer",
                   " Backend Developer",
                   " Web Developer",
